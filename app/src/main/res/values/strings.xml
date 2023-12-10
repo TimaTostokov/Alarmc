@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarmc</string>
+    <string name="ы">Установить будильник</string>
+    <string name="alarm">Alarm!!</string>
+</resources>
